@@ -2,7 +2,8 @@
 
 **`Developer/Creator/Artist`**
 
-I'm a self made Frontend Developer and Designer creating seamless user experiences and software solutions one step at a time. All my coding projects have been built from the ground up, from designing complex UI to converting them into code. I have created a portfolio website myself which showcases some of the work i have done. You can visit: <a href="https://sambabu.netlify.app/">sambabu.dev</a>
+
+I'm a self made Frontend Developer and Designer creating seamless user experiences and software solutions one step at a time. All my coding projects have been built from the ground up, from designing complex UI to converting them into code. I have created a portfolio website myself which showcases some of the work i have done. You can visit: <a href="https://sambabu.netlify.app/" target="blank">sambabu.dev</a> to view the same. I am fairly new to the software development world, still learning, still growing, going forward with the goal of being a better version of me the next day.
 <!--
 **sambabu21/sambabu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
